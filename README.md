@@ -48,16 +48,6 @@ Docker
 
 4. Open the app in your browser at 'http://localhost:5000'.
 
-## Project Structure
-
-/task_manager
-├── app.py              # Main application file
-├── models.py           # Database models
-├── templates/          # HTML templates for the UI
-├── static/             # Static files like CSS, JS
-├── Dockerfile          # Docker setup
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
 
 
 
