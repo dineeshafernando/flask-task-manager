@@ -53,11 +53,12 @@ Docker
 /task_manager
 ├── app.py              # Main application file
 ├── models.py           # Database models
-├── teplates/           # HTML templates for the UI
+├── templates/          # HTML templates for the UI
 ├── static/             # Static files like CSS, JS
 ├── Dockerfile          # Docker setup
 ├── requirements.txt    # List of dependencies
-├── README.md           # Project documentation
+└── README.md           # Project documentation
+
 
 
 
